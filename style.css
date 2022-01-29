@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+}
+.heading {
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+.disk_volume {
+    float:right;
+}
+
+.disk_speed {
+    float:left;
+}
+
+#speed {
+    font-size:20px;
+    margin-left:30px;
+}
+
+#volume {
+    font-size:20px;
+    margin-left:400px;
+    float:right;
+    margin-top:240px;
+
+}
+
+canvas {
+    border:10px white solid;
+    border-radius:20px;
+
+}
